@@ -1,1 +1,1 @@
-# VueJs_study
+# Vue.js Study
